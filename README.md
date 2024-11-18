@@ -1,4 +1,4 @@
-# lmk2scratch
+# lmk2scratch (LetMeKnow2Scratch)
 - 機械学習で学習した内容をネコが喋るScratchプロジェクト。
 - 機械学習の部分は[ML2Scratch](https://github.com/champierre/ml2scratch)を使用
 - 手描きモードとカメラモードがある。
